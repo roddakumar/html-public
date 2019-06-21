@@ -1,0 +1,36 @@
+.content{
+    width: 60%;
+    margin: auto;
+}
+
+.intro{
+    color: darkblue;
+}
+
+.loves{
+    color: crimson;
+}
+
+#favquotes{
+    text-decoration: underline;
+}
+
+.quotes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#quote1{
+    background-color: aqua;
+    color: black;
+    font-style: oblique;
+    border: 2px solid red;
+    text-align: center;
+}
+
+#quote2{
+    background-color: cyan;
+    color: black;
+    font-style: oblique;
+    border: 2px solid red;
+    text-align: center;
+}
